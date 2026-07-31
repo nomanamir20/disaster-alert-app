@@ -1,0 +1,10 @@
+﻿venv/
+.env
+__pycache__/
+*.pyc
+*.db
+ai_model/datasets/
+ai_model/processed/
+ai_model/trained_models/
+mlruns/
+mlflow.db
